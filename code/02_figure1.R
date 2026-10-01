@@ -4,7 +4,7 @@ gap <- read.csv("data/gapminder.csv")
 # Keep observations from 2007
 gap2007 <- subset(gap, year == 2007)
 
-pdf("output/figure1.pdf")
+png("output/figure1.png")
 
 plot(
   gap2007$gdpPercap,
