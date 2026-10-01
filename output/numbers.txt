@@ -1,0 +1,2 @@
+Mean life expectancy: 67.0074225352113
+Mean GDP per capita: 11680.0718198782
